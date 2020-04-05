@@ -112,7 +112,7 @@ a:focus {
 
 @media(min-width:767px) {
     .navbar {
-        padding: 20px 0;
+        padding: 100px 0;
         border-bottom: 0;
         letter-spacing: 1px;
         background: 0 0;
@@ -262,7 +262,7 @@ a:focus {
 
 .download-section {
     width: 100%;
-    padding: 0px 0;
+    padding: 100px 0;
     color: #fff;
     background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
@@ -280,11 +280,11 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 50px;
+        padding-top: 100px;
     }
 
     .download-section {
-        padding: 50px 0;
+        padding: 100px 0;
     }
 
     #map {
@@ -343,7 +343,7 @@ ul.banner-social-buttons li {
 }
 
 footer {
-    padding: 50px 0;
+    padding: 100px 0;
 }
 
 footer p {
