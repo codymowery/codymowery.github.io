@@ -4,13 +4,16 @@ email: mowery.cody@gmail.com
 url: https://codymowery.github.io
 description: "MD-PhD candidate at UCSF interested in computational immunology & genomics."
 
+# API Key for Google Maps
+google_maps_javascript_api_key: "AIzaSyD_HlYBw0GMxq-4Xw5aS3rfmPBKWZMBYNQ"
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
   links: '#219ab3'
 
 # Footer settings
-footer: Cody Mowery
+footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
