@@ -159,6 +159,8 @@ a:focus {
 .intro .intro-body .intro-text {
     font-size: 18px;
     white-space: nowrap;
+    margin-left: -100%;
+    margin-right: -100%;
     text-align: center;
 }
 
