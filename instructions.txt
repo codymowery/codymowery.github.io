@@ -1,1 +1,3 @@
 screenshot pub image with shift+cmd+4, change file name on Desktop, move to /img directory, and change permissions with "chmod 755 {file_name}
+
+update _includes/papers.html
